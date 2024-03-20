@@ -1,1 +1,1 @@
-This directory implements webpage design.
+A directory that implements web page design
